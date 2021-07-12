@@ -1,0 +1,172 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+hr {
+  margin: 3rem 0;
+}
+
+h1 {
+  margin: 0;
+}
+h2 {
+  margin-bottom: 2rem;
+  color: #78DEC7;
+}
+h3 {
+  color: #78DEC7;
+  font-weight: 500;
+  padding-bottom: 7%;
+}
+h5 {
+  font-weight: 600;
+  color: #423F3E;
+}
+
+footer {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  background-color: #78DEC7;
+}
+
+.container-1 {
+  margin: auto;
+  text-align: center;
+  color: #fff;
+  width: 30%;
+  position: relative;
+}
+
+.name {
+  padding-top: 50%;
+  border-bottom: 1px solid #fff;
+  border-bottom-color:  #fff;
+  border-bottom-color: rgba(255, 255, 255, 0.4);
+  padding-bottom: 1rem;
+  font-weight: 700;
+  font-size: 380%;
+  letter-spacing: 2px;
+}
+
+.hr-1 {
+  border-bottom: none;
+}
+
+.name, .inter {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.inter {
+  font-weight: 300;
+  font-style: normal;
+  font-variant: normal;
+  font-size: 150%;
+  letter-spacing: 1.5px;
+  margin-top: 10px;
+}
+
+/* Container 2 */
+
+.container-2 {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  padding: 3.5rem 0;
+}
+
+.section-heading {
+  color: #78DEC7;
+  font-size: 300%;
+  padding-bottom: 1.5rem;
+}
+
+.details-2 {
+  line-height: 1rem;
+}
+
+.profile {
+  width: 220px;
+  border-radius: 50%;
+  border: 10px solid #FFF5DA;
+  margin-left: auto;
+}
+
+/* Container 3 */
+.container-3 {
+  background-color: #FFF5DA;
+  padding: 3.5rem 0;
+}
+.content-3 {
+  max-width: 50%;
+  margin: auto;
+}
+.tagline {
+  font-size: 120%;
+}
+
+.exp-row-desc {
+  padding-top: 7%;
+}
+
+
+
+
+/* container-4 na tayu */
+.container-4 {
+  padding: 3.5rem;
+}
+.content-4 {
+  width: 50%;
+  margin: auto;
+}
+
+.unordered-list {
+  list-style-type: none;
+}
+
+
+/* Container 5 - ABilities */
+.container-5 {
+  background-color: #FFF5DA;
+  padding: 3.5rem;
+}
+
+.content-5 {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+/* Footer na  */
+.footer-container {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  padding: 2.5rem 0;
+}
+
+.footer-content {
+  color: #fff;
+}
+.skills-ul {
+  padding-left: 0;
+}
+
+.filled {
+  color: #22A39F;
+}
+
+.skill-rate {
+  float: right;
+}
+
+
+/* Text align center - keep this at the bootom. */
+.center {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
